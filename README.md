@@ -3,7 +3,7 @@
 Raspberry Pi and Arduino Nano configuration that automatically detects sensors, collects data, and provides real-time monitoring with alerts.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Python](https://img.shields.io/badge/python-3.7+-green)
+![Python](https://img.shields.io/badge/python-3.11+-green)
 ![Arduino](https://img.shields.io/badge/arduino-nano-red)
 ![License](https://img.shields.io/badge/license-MIT-purple)
 ![Platform](https://img.shields.io/badge/platform-AlmaLinux-orange)
